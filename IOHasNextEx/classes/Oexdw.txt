@@ -1,0 +1,14 @@
+								STUDENT LIST
+
+STUDENT				GRADE ONE		GRADE TWO		GENDER
+----------------------------------------------------------------------
+David Smith         	89		   67			     m
+Jose Garcia         	95		   91			     m
+Ester Stein         	57		   63			     f
+Theresa Addison     	35		   64			     f
+Tony Rubinoff       	88		   94			     m
+Sally Smith         	72		   71			     f
+Mary Hicks          	98		   94			     f
+Harry Higgins       	88		   87			     m
+Donald Soberly      	55		   43			     m
+Kathy Kennedy       	71		   75			     f

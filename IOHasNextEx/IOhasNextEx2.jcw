@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>IOhasNextEx</label>
+	</settings>
+	<users>
+		<user>
+			<path>IOhasNextEx2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>IOhasNextEx.jcp</path>
+		</project>
+	</projects>
+</workspace>
